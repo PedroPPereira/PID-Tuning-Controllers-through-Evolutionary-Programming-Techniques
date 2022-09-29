@@ -1,4 +1,4 @@
-# PID Tuning through Evolutionary Programming Techniques
+# PID Tuning Controllers through Evolutionary Programming Techniques
 
 **Course:** Decision Systems
 
