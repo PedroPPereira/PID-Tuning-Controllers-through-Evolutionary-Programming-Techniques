@@ -1,6 +1,6 @@
 # PID Tuning Controllers through Evolutionary Programming Techniques
 
-**Course:** Decision Systems
+**Course:** Optimal Decision Systems
 
 **Academic Year:** 2020/21
 
