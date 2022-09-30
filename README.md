@@ -2,6 +2,8 @@
 
 **Course:** Optimal Decision Systems
 
+**Specialty Area:** Control and Automation Systems
+
 **Academic Year:** 2020/21
 
 **Semester:** 1st
